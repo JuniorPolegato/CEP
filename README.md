@@ -1,4 +1,4 @@
 CEP
 ===
 
-Obter endereço a partir de um CEP via consulta web dos correios, além de coordenadas via Google Maps
+Obter endereço a partir de uma faixa de CEPs via consulta web dos Correios, além de coordenadas via API do Google Maps.
